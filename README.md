@@ -47,9 +47,12 @@ Notas: los costos son una estimación técnica y las pasadas del satélite fuero
 
 ## Capturas
 <!-- TODO: captura del mapa con historial y predicción (sin datos sensibles) -->
-![Plataforma](docs/img/plataforma.png)
+<img width="1204" height="569" alt="image" src="https://github.com/user-attachments/assets/769629fc-7b88-4670-b3c6-b385447bb166" />
+
 <!-- TODO: GIF o figura comparando predicción vs línea recta -->
-![Predicción vs línea recta](docs/img/comparacion.png)
+<img width="585" height="329" alt="image" src="https://github.com/user-attachments/assets/a3f951d5-e302-4b4c-bde7-9d17e95f6f82" />
+
+<img width="406" height="224" alt="image" src="https://github.com/user-attachments/assets/dfbb60a4-e0ad-4b20-b559-e1d127683d98" />
 
 ## Autor
 Tito Ruiz Haros · [github.com/titoruizh](https://github.com/titoruizh)
