@@ -43,6 +43,9 @@ Python · PyTorch · FastAPI · Astro · React · Leaflet · YOLO (revisión de 
 | Reducción de costo total estimado | 39,61 % | — |
 | Reducción de costo por barco localizado | 51,47 % | — |
 
+<img width="697" height="432" alt="image" src="https://github.com/user-attachments/assets/ee3ac107-9800-4d07-acbf-76826b07b51d" />
+
+
 Notas: los costos son una estimación técnica y las pasadas del satélite fueron simuladas; no es un ahorro real ni una prueba en operación. "Localizado" significa que la posición real quedó dentro de alguna imagen planificada. La meta inicial era reducir al menos 50 % el costo; se observó una reducción de 51,47 % por barco localizado, pero la muestra no permite afirmarlo con certeza estadística.
 
 ## Capturas
